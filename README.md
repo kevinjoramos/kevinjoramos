@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kevinjoramos
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning native Android Development
 - 💞️ I’m looking to collaborate on android native apps.
 - 📫 How to reach me kevin.jo.ramos@gmail.com
 
