@@ -4,6 +4,8 @@ I'm an engineer at heart, and working on complex technical systems is thrilling.
 
 How fantastic it is to love what you do!
 
+linkedin.com/in/kevinjoramos
+
 <!---
 kevinjoramos/kevinjoramos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
