@@ -29,7 +29,7 @@ How fantastic it is to love what you do!
 
   <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
+  </a>      
   <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
@@ -39,6 +39,10 @@ How fantastic it is to love what you do!
     </td>
   </tr>
 </table>
+
+<h1 align="center">Technologies</h1>
+
+<h1 align="center">Connect</h1>
 
 <!---
 kevinjoramos/kevinjoramos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
