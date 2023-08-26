@@ -14,7 +14,7 @@ How fantastic it is to love what you do!
         <img src="images/" width="100%" alt="Kevtendo"/>
         <br />
         <p align="center">
-          <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+          <a href="" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>  
       </p>
@@ -27,10 +27,10 @@ How fantastic it is to love what you do!
         <br />
         <p align="center">
 
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>      
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
