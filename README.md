@@ -14,7 +14,7 @@ How fantastic it is to love what you do!
         <img src="images/" width="100%" alt="Kevtendo"/>
         <br />
         <p align="center">
-          <a href="" target="_blank">
+          <a href="https://github.com/kevinjoramos/Kevtendo" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>  
       </p>
