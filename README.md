@@ -15,8 +15,7 @@ How fantastic it is to love what you do!
         <br />
         <p align="center">
           <a href="https://github.com/kevinjoramos/Kevtendo" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-          </a>  
+            <img src="https://img.shields.io/badge/Repo-d3d3d3?style=for-the-badge&logo=github&logoColor=black"/>          </a>  
       </p>
         <p><strong>Kotlin & Libgdx</strong> - A software system that emulates the internal hardware of the NES in order to play NES games!</p>
     </td>
@@ -28,10 +27,11 @@ How fantastic it is to love what you do!
         <p align="center">
 
   <a href="https://github.com/kevinjoramos/Calculator-app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Repo-d3d3d3?style=for-the-badge&logo=github&logoColor=black"/>
   </a>      
+    
   <a href="https://play.google.com/store/apps/details?id=kevin.jo.ramos" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Google Play-000000?style=for-the-badge&logo=googleplay"/>
   </a>
       </p>
         <p><strong>Android, Kotlin, Room, MVVM</strong> - My homebrew scientific calculator 
