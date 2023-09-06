@@ -40,6 +40,9 @@ How fantastic it is to love what you do!
         app where you can "favorite" past calculations to save them for later.</p>
     </td>
   </tr>
+  <tr>
+    
+  </tr>
 </table>
 
 <h1 align="center">Technologies</h1>
